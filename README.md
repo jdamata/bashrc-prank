@@ -6,5 +6,5 @@ curl https://raw.githubusercontent.com/jdamata/bashrc-prank/master/prank.sh | ba
 ```
 OR
 ```bash
-curl https://tinyurl.com/qrr2mca | bash
+curl -L https://tinyurl.com/qrr2mca | bash
 ```
