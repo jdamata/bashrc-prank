@@ -29,16 +29,3 @@ append "alias less=\"echo why have less if you can have more\""
 append "alias more=\"echo you\'re just greedy\""
 append "alias alias=''"
 append "alias unalias=''"
-
-
-
-
-
-
-
-
-
-
-
-
-
